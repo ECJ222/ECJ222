@@ -1,4 +1,4 @@
-### Welcome to my Github profile 😉👯
+### Welcome to my Github profile ⚡
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ECJ222&show_icons=true&theme=default" style="padding-right:0px !important;"/>
 
