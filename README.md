@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hi, I'm Enoch Chejieh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Enoch Chejieh
 </h3>
 
 <hr>
@@ -7,7 +7,7 @@
 🚀 I'm a Software Developer and Technical writer passionate about Open source and building cool stuff 
 
 - 💻 I’m currently working on something cool :wink:;
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about React, Vue, Jamstack, Django, Flutter;
 - 📫 How to reach me: [@ECJ](https://twitter.com/EnochChejieh);
 
 <h4>Where to find me</h4>
