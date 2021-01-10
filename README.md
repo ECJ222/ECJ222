@@ -11,7 +11,7 @@
 - 📫 How to reach me: [@ECJ](https://twitter.com/EnochChejieh);
 
 <br />
-## Where to find me
+<h4>Where to find me</h4>
 <br />
 
 <a href="https://twitter.com/EnochChejieh" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
