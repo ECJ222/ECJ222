@@ -3,7 +3,7 @@
 </h3>
 
 <br />
-🚀 I'm a Full Stack Developer and Technical writer passionate about Open source and building cool stuff 
+🚀 I'm a Software Developer and Technical writer passionate about Open source and building cool stuff 
 <br />
 
 - 💻 I’m currently working on something cool :wink:;
@@ -11,7 +11,7 @@
 - 📫 How to reach me: [@ECJ](https://twitter.com/EnochChejieh);
 
 <br />
-##Where to find me
+## Where to find me
 <br />
 
 <a href="https://twitter.com/EnochChejieh" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
