@@ -1,4 +1,5 @@
-<h4 style="text-align: center;">Hi, I'm Enoch <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h4>
+<center><h4>Hi, I'm Enoch <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h4></center>
+<hr>
 <br />
 🚀 I'm a Full Stack Developer and Technical writer passionate about Open source and building cool stuff 
 <br />
