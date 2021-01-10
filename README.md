@@ -6,6 +6,8 @@ Hi, I'm Enoch <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.g
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@ECJ](https://twitter.com/EnochChejieh);
 <br />
+###Where to find me
+<br />
 <a href="https://twitter.com/EnochChejieh">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
