@@ -7,7 +7,7 @@
 🚀 I'm a Software Developer and Technical writer passionate about Open source and building cool stuff 
 
 - 💻 I’m currently working on something cool :wink:;
-- 💬 Ask me about React, Vue, Jamstack, Django, Flutter;
+- 💬 Ask me about React, Vue, Jamstack, Django;
 - 📫 How to reach me: [@ECJ](https://twitter.com/EnochChejieh);
 
 <h4>Where to find me</h4>
