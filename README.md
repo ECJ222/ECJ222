@@ -6,7 +6,7 @@
 
 🚀 I'm a Software Developer and Technical writer passionate about Open source and building cool stuff 
 
-- 💻 I’m currently working on something cool :wink:;
+- 💻 I’m currently working on something cool 😉;
 - 💬 Ask me about React, Vue, Jamstack, Nodejs or rather just ask me anything maybe i can help 😂;
 - 📫 How to reach me: [@ECJ](https://twitter.com/EnochChejieh);
 
