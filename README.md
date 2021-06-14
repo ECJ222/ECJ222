@@ -7,7 +7,7 @@
 🚀 I'm a Software Developer and Technical writer passionate about Open source and building cool stuff 
 
 - 💻 I’m currently working on something cool :wink:;
-- 💬 Ask me about React, Vue, Jamstack, Nodejs or rather just ask me anything maybe i can help Winking Face on Apple iOS 14.6;
+- 💬 Ask me about React, Vue, Jamstack, Nodejs or rather just ask me anything maybe i can help 😂;
 - 📫 How to reach me: [@ECJ](https://twitter.com/EnochChejieh);
 
 <h4>Where to find me</h4>
